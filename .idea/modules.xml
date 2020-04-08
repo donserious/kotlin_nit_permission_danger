@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="nit_permission_danger/app" />
+      <module fileurl="file://$PROJECT_DIR$/checker/checker.iml" filepath="$PROJECT_DIR$/checker/checker.iml" group="nit_permission_danger/checker" />
+      <module fileurl="file://$PROJECT_DIR$/nit_permission_danger.iml" filepath="$PROJECT_DIR$/nit_permission_danger.iml" group="nit_permission_danger" />
+    </modules>
+  </component>
+</project>
